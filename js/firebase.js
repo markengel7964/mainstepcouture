@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyAvp4Xd2sXHXcjmtnt_AVv4L42IwzY2dDY",
-  authDomain: "unierafashion.firebaseapp.com",
-  databaseURL: "https://unierafashion-default-rtdb.firebaseio.com",
-  projectId: "unierafashion",
-  storageBucket: "unierafashion.firebasestorage.app",
-  messagingSenderId: "749498855963",
-  appId: "1:749498855963:web:24c1bfcdbd681a57547ebe"
+  apiKey: "AIzaSyAKO-ma5UgELjCIlsNJnF_YwicfV2es3kw",
+  authDomain: "satoyabp.firebaseapp.com",
+  databaseURL: "https://satoyabp-default-rtdb.firebaseio.com",
+  projectId: "satoyabp",
+  storageBucket: "satoyabp.firebasestorage.app",
+  messagingSenderId: "1092254379214",
+  appId: "1:1092254379214:web:2b9e500e5231e19c9f749f"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
